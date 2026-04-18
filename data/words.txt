@@ -1,0 +1,6 @@
+python
+coding
+developer
+hangman
+computer
+project
